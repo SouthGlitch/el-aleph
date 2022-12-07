@@ -1,0 +1,9 @@
+baseURL: "http://example.org/"
+languageCode: "es-us"
+title: "El Aleph"
+theme: "PaperMod"
+
+params:
+  homeInfoParams:
+        Title: ¿Necesitas clases de apoyo?
+        Content: Damos clases presenciales y virtuales de matemática, física y química. No dudes en consultarnos 😎
